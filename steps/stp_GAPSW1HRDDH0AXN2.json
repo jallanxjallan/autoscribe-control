@@ -5,7 +5,7 @@
   "engine": "chatgpt",
   "model": "luna",
   "args": {
-    "max_output_tokens": 80
+    "max_output_tokens": 160
   },
   "instructions": {
     "role": [
