@@ -1,0 +1,21 @@
+{
+  "identity": "stp_GAPSW1HRDDH0AXN2",
+  "label": "LLM Smoke Test",
+  "engine_kind": "llm",
+  "engine": "chatgpt",
+  "model": "luna",
+  "args": {
+    "max_output_tokens": 80
+  },
+  "instructions": {
+    "role": [
+      "rol_39HNCZ0NQ26DYENA"
+    ],
+    "context": [
+      "ctx_8KDTXS4GDB7GYHXT"
+    ],
+    "task": [
+      "tsk_Z83XXHS37EXM3F6K"
+    ]
+  }
+}

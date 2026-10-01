@@ -1,0 +1,8 @@
+{
+  "identity": "stp_FHZ0AYS2BX3YDZEK",
+  "label": "Verify Smoke Test Output",
+  "engine_kind": "script",
+  "engine": "local",
+  "script": "smoke-test",
+  "args": {}
+}

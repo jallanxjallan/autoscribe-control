@@ -1,0 +1,10 @@
+{
+  "identity": "pln_AXB4JQC9BKXF9481",
+  "title": "AutoScribe End-to-End Smoke Test",
+  "description": "Two-step production smoke test. Step 1 calls ChatGPT with role/context/task instructions and a fixed sentinel input contract. Step 2 runs a deterministic local verifier against the LLM output. A successful final response proves Control resolution, instruction materialization, LLM execution, multi-step chaining, local script execution, response persistence, and downstream export of the final step.",
+  "scope": "system",
+  "steps": [
+    "stp_GAPSW1HRDDH0AXN2",
+    "stp_FHZ0AYS2BX3YDZEK"
+  ]
+}
