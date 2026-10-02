@@ -1,0 +1,21 @@
+{
+  "identity": "stp_3M8R5T4N9F6Q2X7K",
+  "label": "Write jeremyallan.com About Page",
+  "engine_kind": "llm",
+  "engine": "chatgpt",
+  "model": "luna",
+  "args": {
+    "max_output_tokens": 1800
+  },
+  "instructions": {
+    "role": [
+      "rol_4N9F6Q2X7M3K8R5T"
+    ],
+    "context": [
+      "ctx_7K2M9V4Q6X8R3N5P"
+    ],
+    "task": [
+      "tsk_8R3N5P7K2M9V4Q6X"
+    ]
+  }
+}

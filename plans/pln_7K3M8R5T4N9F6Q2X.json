@@ -1,0 +1,9 @@
+{
+  "identity": "pln_7K3M8R5T4N9F6Q2X",
+  "title": "Website — Books",
+  "description": "Turn Jeremy Allan's own bulleted notes into the Books introductory page for jeremyallan.com while preserving his voice and avoiding publisher-style sales copy.",
+  "scope": "jeremyallan.com",
+  "steps": [
+    "stp_2X7K3M8R5T4N9F6Q"
+  ]
+}
