@@ -1,0 +1,21 @@
+{
+  "identity": "stp_C8K2M7R4V9N5Q3HX",
+  "label": "Destination Guide — Compose Example Passage",
+  "engine_kind": "llm",
+  "engine": "chatgpt",
+  "model": "sol",
+  "args": {
+    "max_output_tokens": 3200
+  },
+  "instructions": {
+    "role": [
+      "rol_H9Q5K3N7V2R8M4XC"
+    ],
+    "context": [
+      "ctx_K8V5N3R9H2Q7M4XT"
+    ],
+    "task": [
+      "tsk_N8R5K2X7M9Q3V4HJ"
+    ]
+  }
+}

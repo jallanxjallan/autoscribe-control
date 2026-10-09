@@ -1,0 +1,11 @@
+{
+  "identity": "pln_V6KP8H2Q7M3N5X9R",
+  "title": "Destination Guide — Example Passage",
+  "description": "Three-stage example-copy plan. Develop a source-grounded editorial packet from one Markdown passage brief, compose reader-facing narrative prose, then perform a publication edit. Uses the existing role/context/task instruction stack; excludes directory data, verification and separate context machinery.",
+  "scope": "destination-guides",
+  "steps": [
+    "stp_B7H4N9Q2V6K3R8XM",
+    "stp_C8K2M7R4V9N5Q3HX",
+    "stp_D9M3Q8H5X2V7K4NR"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "identity": "stp_D9M3Q8H5X2V7K4NR",
+  "label": "Destination Guide — Edit Example Passage",
+  "engine_kind": "llm",
+  "engine": "chatgpt",
+  "model": "terra",
+  "args": {
+    "max_output_tokens": 2200
+  },
+  "instructions": {
+    "role": [
+      "rol_J7R3X9M4K8V2N5QH"
+    ],
+    "context": [
+      "ctx_K8V5N3R9H2Q7M4XT"
+    ],
+    "task": [
+      "tsk_P9V6M3H8R2K7N5QX"
+    ]
+  }
+}

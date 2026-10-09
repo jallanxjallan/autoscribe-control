@@ -1,0 +1,21 @@
+{
+  "identity": "stp_B7H4N9Q2V6K3R8XM",
+  "label": "Destination Guide — Develop Editorial Brief",
+  "engine_kind": "llm",
+  "engine": "chatgpt",
+  "model": "luna",
+  "args": {
+    "max_output_tokens": 1800
+  },
+  "instructions": {
+    "role": [
+      "rol_G8N4V2K9Q6M3R7HX"
+    ],
+    "context": [
+      "ctx_K8V5N3R9H2Q7M4XT"
+    ],
+    "task": [
+      "tsk_M7Q4H9V2K6N3R8XC"
+    ]
+  }
+}
