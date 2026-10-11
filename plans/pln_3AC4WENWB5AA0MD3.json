@@ -1,0 +1,10 @@
+{
+  "identity": "pln_3AC4WENWB5AA0MD3",
+  "title": "Destination Guide — Science, Ecology & Risk",
+  "description": "Build or refine understandable, cautious explanation of natural systems, conservation, public health, climate and environmental risk. Preserve evidence limits; no current medical advice or fabricated figures. Accepts briefs or example prose; body-only output.",
+  "scope": "destination-guides",
+  "steps": [
+    "stp_6Q5SK1N8Y5R9J0J2",
+    "stp_H7V4520TP4TCX985"
+  ]
+}
