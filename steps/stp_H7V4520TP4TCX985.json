@@ -1,0 +1,21 @@
+{
+  "identity": "stp_H7V4520TP4TCX985",
+  "label": "Destination Guide — Polish Genre Passage (Body Only)",
+  "engine_kind": "llm",
+  "engine": "chatgpt",
+  "model": "terra",
+  "args": {
+    "max_output_tokens": 2400
+  },
+  "instructions": {
+    "role": [
+      "rol_J7R3X9M4K8V2N5QH"
+    ],
+    "context": [
+      "ctx_PDCAZZ8R4RXZWM90"
+    ],
+    "task": [
+      "tsk_GVB8V5C72MQP1YYP"
+    ]
+  }
+}
