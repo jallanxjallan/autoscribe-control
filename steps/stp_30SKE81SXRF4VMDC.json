@@ -1,0 +1,21 @@
+{
+  "identity": "stp_30SKE81SXRF4VMDC",
+  "label": "Destination Guide — Compose Practical Understanding & Etiquette",
+  "engine_kind": "llm",
+  "engine": "chatgpt",
+  "model": "sol",
+  "args": {
+    "max_output_tokens": 3200
+  },
+  "instructions": {
+    "role": [
+      "rol_H9Q5K3N7V2R8M4XC"
+    ],
+    "context": [
+      "ctx_PDCAZZ8R4RXZWM90"
+    ],
+    "task": [
+      "tsk_98ZAC1H2WNXGMYQ0"
+    ]
+  }
+}
