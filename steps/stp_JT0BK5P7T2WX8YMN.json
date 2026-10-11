@@ -1,0 +1,21 @@
+{
+  "identity": "stp_JT0BK5P7T2WX8YMN",
+  "label": "Destination Guide — Compose Cultural History & Traditions",
+  "engine_kind": "llm",
+  "engine": "chatgpt",
+  "model": "sol",
+  "args": {
+    "max_output_tokens": 3200
+  },
+  "instructions": {
+    "role": [
+      "rol_H9Q5K3N7V2R8M4XC"
+    ],
+    "context": [
+      "ctx_PDCAZZ8R4RXZWM90"
+    ],
+    "task": [
+      "tsk_68KT93V9BZC8K8A1"
+    ]
+  }
+}
