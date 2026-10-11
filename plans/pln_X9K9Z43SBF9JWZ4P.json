@@ -1,0 +1,10 @@
+{
+  "identity": "pln_X9K9Z43SBF9JWZ4P",
+  "title": "Destination Guide — People & Reported Encounters",
+  "description": "Build or refine human-centred nonfiction while strictly avoiding invented interviews, first-person attendance, quotes or unreported encounters. Accepts briefs or example prose; body-only output.",
+  "scope": "destination-guides",
+  "steps": [
+    "stp_7RQWX86S1NW273RV",
+    "stp_H7V4520TP4TCX985"
+  ]
+}
