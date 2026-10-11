@@ -1,0 +1,21 @@
+{
+  "identity": "stp_57EA0P7K37KHTZBN",
+  "label": "Destination Guide — Compose Arts, Students & Performance",
+  "engine_kind": "llm",
+  "engine": "chatgpt",
+  "model": "sol",
+  "args": {
+    "max_output_tokens": 3200
+  },
+  "instructions": {
+    "role": [
+      "rol_H9Q5K3N7V2R8M4XC"
+    ],
+    "context": [
+      "ctx_PDCAZZ8R4RXZWM90"
+    ],
+    "task": [
+      "tsk_A5H4VSA9S3PVBZZW"
+    ]
+  }
+}
