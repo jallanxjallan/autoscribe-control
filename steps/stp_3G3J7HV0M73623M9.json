@@ -1,0 +1,21 @@
+{
+  "identity": "stp_3G3J7HV0M73623M9",
+  "label": "Destination Guide — Compose Food, Markets & Craft",
+  "engine_kind": "llm",
+  "engine": "chatgpt",
+  "model": "sol",
+  "args": {
+    "max_output_tokens": 3200
+  },
+  "instructions": {
+    "role": [
+      "rol_H9Q5K3N7V2R8M4XC"
+    ],
+    "context": [
+      "ctx_PDCAZZ8R4RXZWM90"
+    ],
+    "task": [
+      "tsk_SSNF9JPH6Q910FHM"
+    ]
+  }
+}
