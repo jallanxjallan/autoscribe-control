@@ -49,3 +49,7 @@ script=pass
 A successful final response verifies the Control snapshot was ingested; the plan resolved both reusable steps; role/context/task identities were resolved and materialized; the ChatGPT worker path and API credential worked; the fixed input reached the LLM; the first-step output became the second-step input; the local extension registry resolved `smoke-test`; the script executed successfully; and the final step was persisted as the call response for normal export/writeback.
 
 The test is intentionally strict. Any extra LLM text, missing instruction sentinel, wrong input sentinel, broken step chaining, missing extension registration, or non-zero script result causes the smoke run to fail rather than produce a false positive.
+
+## Verification policy, 13 October 2026
+
+Operational acceptance uses genuine saved project files, actual assets and processing outputs staged outside source trees. A successful build is not a successful live workflow. Keep only build checks, minimal NDJSON/directive contracts, identity/retry/idempotency safeguards, reference failures, writeback conflict and source-integrity protections. Retire superseded watcher, fake transport and duplicate suites after replacement evidence exists. No paid processing, original-note writeback, service replacement or live publishing without the required authorization. Catalogue repositories need content/schema validation appropriate to their role, not artificial execution suites.
