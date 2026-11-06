@@ -28,3 +28,18 @@ The Control plan does not itself implement stage 1 or prove that stage 2 output 
 | Uncertain quotation, date, colloquialism, proper name, or historic spelling | Leave the text unchanged and do not speculate |
 
 A future deterministic preflight can report suspicious patterns and fail closed on source ambiguity; it must not be hidden inside the renderer. Keep the initial implementation simple and use genuine manuscript passages for acceptance tests.
+
+## Current raw-submission qualification amendment — 6 November 2026
+
+The current engine preserves the original raw Markdown through interpretation;
+Pandoc does not reconstruct the model payload. The existing plan and step IDs are
+retained. Their instructions now accept that raw source, exclude opening source
+frontmatter from body-only output, and describe conservative candidate repairs
+for inline triple hyphens and unambiguous year-like prose prefixes. Genuine lists,
+standalone thematic breaks and ambiguous cases remain unchanged.
+
+This is an instruction/configuration amendment, not a new engine or deterministic
+preflight implementation. Synthetic engine substitution can qualify plan lookup,
+instruction materialization, output/body contracts and conflict safety; it cannot
+qualify the real provider/model's proofreading decisions. The renderer remains
+read-only. Real manuscript candidate output still requires author diff review.
