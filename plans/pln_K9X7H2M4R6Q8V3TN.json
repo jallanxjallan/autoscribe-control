@@ -1,0 +1,9 @@
+{
+  "identity": "pln_K9X7H2M4R6Q8V3TN",
+  "title": "Book — Mechanical Proofreading",
+  "description": "Conservative, body-only proofreading of an already edited passage in the content received: correct unambiguous mechanical errors while retaining authorial voice, period language, prose structure and manuscript markup. Candidate output requires author diff review. Raw Markdown conversion preflight is a separate upstream prerequisite.",
+  "scope": "books",
+  "steps": [
+    "stp_V5N8J2Q7K4M9X6HR"
+  ]
+}

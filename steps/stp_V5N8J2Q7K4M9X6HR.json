@@ -1,0 +1,21 @@
+{
+  "identity": "stp_V5N8J2Q7K4M9X6HR",
+  "label": "Book — Mechanical Proofread Passage (Body Only)",
+  "engine_kind": "llm",
+  "engine": "chatgpt",
+  "model": "terra",
+  "args": {
+    "max_output_tokens": 6000
+  },
+  "instructions": {
+    "role": [
+      "rol_B7Q3N8K4X2M9R5VH"
+    ],
+    "context": [
+      "ctx_M8H2V7Q5N4X9K3RC"
+    ],
+    "task": [
+      "tsk_Q4R8V2M7H9N5X3KC"
+    ]
+  }
+}
