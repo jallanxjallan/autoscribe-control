@@ -3,7 +3,7 @@
   "label": "Book — Mechanical Proofread Passage (Body Only)",
   "engine_kind": "llm",
   "engine": "chatgpt",
-  "model": "terra",
+  "model": "luna",
   "args": {
     "max_output_tokens": 6000
   },
