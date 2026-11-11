@@ -1,0 +1,21 @@
+{
+  "identity": "stp_P2AHP6ZR5HSDYJGB",
+  "label": "Convert First-Person Narration to Third Person",
+  "engine_kind": "llm",
+  "engine": "chatgpt",
+  "model": "luna",
+  "args": {
+    "max_output_tokens": 6000
+  },
+  "instructions": {
+    "role": [
+      "rol_P2AHP6ZR5HSDYJGB"
+    ],
+    "context": [
+      "ctx_P2AHP6ZR5HSDYJGB"
+    ],
+    "task": [
+      "tsk_P2AHP6ZR5HSDYJGB"
+    ]
+  }
+}

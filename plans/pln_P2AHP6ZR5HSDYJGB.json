@@ -1,0 +1,9 @@
+{
+  "identity": "pln_P2AHP6ZR5HSDYJGB",
+  "title": "Convert First-Person Narration to Third Person",
+  "description": "Rewrite a passage from first-person narration to third-person narration, identifying the narrator as Muharto and referring to the narrator’s group as the crew while preserving the passage’s original meaning, tense, aspect, tone, sequence, and unrelated content.",
+  "scope": "books",
+  "steps": [
+    "stp_P2AHP6ZR5HSDYJGB"
+  ]
+}

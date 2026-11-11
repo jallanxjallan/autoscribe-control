@@ -1,0 +1,4 @@
+---
+identity: tsk_P2AHP6ZR5HSDYJGB
+---
+Rewrite the supplied passage and return only the rewritten passage. Convert the narrator’s first-person narration to third person: change narrator references such as “I,” “me,” “my,” “mine,” and “myself” to grammatically appropriate forms referring to Muharto, and change narrator-group references such as “we,” “us,” “our,” “ours,” and “ourselves” to grammatically appropriate forms referring to the crew. Adjust dependent pronouns, possessives, reflexives, contractions, verb agreement, and nearby wording as needed for grammatical consistency. Preserve the original tense, aspect, tone, meaning, narrative sequence, formatting, and all unrelated source content. Preserve direct speech, quotations, and titles unchanged when their first-person wording belongs to a speaker other than the narrator; do not convert those words merely because they contain “I” or “we.”
