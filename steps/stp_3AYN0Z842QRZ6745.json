@@ -1,0 +1,21 @@
+{
+  "identity": "stp_3AYN0Z842QRZ6745",
+  "label": "authorial-voice-training-pairs — 2",
+  "engine_kind": "script",
+  "engine": "local",
+  "script": "compose-text",
+  "args": {
+    "parts": [
+      {
+        "source": "original_body",
+        "heading": "Original passage"
+      },
+      {
+        "source": "step_text",
+        "position": 1,
+        "heading": "Generic AI rewrite"
+      }
+    ],
+    "separator": "\n\n"
+  }
+}

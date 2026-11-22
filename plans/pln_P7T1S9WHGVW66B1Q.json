@@ -1,0 +1,10 @@
+{
+  "identity": "pln_P7T1S9WHGVW66B1Q",
+  "scope": "text",
+  "title": "authorial-voice-training-pairs",
+  "description": "Draft AutoScribe plan that rewrites an original tagged passage in deliberately generic AI prose while preserving its factual content, then composes the original and rewrite as a paired result for administrator review.",
+  "steps": [
+    "stp_NRZDKB7EDSKG1EPX",
+    "stp_3AYN0Z842QRZ6745"
+  ]
+}
